@@ -1,10 +1,10 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "server",
-    "version": "0.0.1",
-    "identifier": "com.server.app",
+    "productName": "quzheng",
+    "version": "1.0.1",
+    "identifier": "com.quzheng.app",
     "app": {
-        "windows": [{"title":"server","url":"http://192.168.3.9:8989","userAgent":"","width":"","height":"","theme":null,"resizable":true,"fullscreen":false,"maximized":false,"minWidth":400,"minHeight":300,"maxWidth":1920,"maxHeight":1080,"decorations":true,"transparent":false,"titleBarStyle":"Visible","visible":true,"focus":true,"closable":true,"minimizable":true,"maximizable":true,"alwaysOnTop":false,"alwaysOnBottom":false,"center":false,"skipTaskbar":false,"tabbingIdentifier":null,"parent":null,"dragDropEnabled":true,"browserExtensionsEnabled":false,"devtools":true,"contentProtected":false,"hiddenTitle":false,"incognito":false,"proxyUrl":null,"useHttpsScheme":false,"zoomHotkeysEnabled":false,"acceptFirstMouse":false,"create":false}],
+        "windows": [{"title":"quzheng","url":"https://quzheng.maxius.top:40443/","userAgent":"","width":"","height":"","theme":null,"resizable":true,"fullscreen":false,"maximized":false,"minWidth":400,"minHeight":300,"maxWidth":1920,"maxHeight":1080,"decorations":true,"transparent":false,"titleBarStyle":"Visible","visible":true,"focus":true,"closable":true,"minimizable":true,"maximizable":true,"alwaysOnTop":false,"alwaysOnBottom":false,"center":false,"skipTaskbar":false,"tabbingIdentifier":null,"parent":null,"dragDropEnabled":true,"browserExtensionsEnabled":false,"devtools":true,"contentProtected":false,"hiddenTitle":false,"incognito":false,"proxyUrl":null,"useHttpsScheme":false,"zoomHotkeysEnabled":false,"acceptFirstMouse":false,"create":false}],
         "security": {
             "assetProtocol": {
                 "enable": true,
