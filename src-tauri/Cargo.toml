@@ -1,7 +1,7 @@
 [package]
-name = "server"
-version = "0.0.1"
-description = ""
+name = "quzheng"
+version = "1.0.1"
+description = "溯源取证客户端"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
