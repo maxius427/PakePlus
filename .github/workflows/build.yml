@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'server'
                   releaseName: 'server v__VERSION__'
-                  releaseBody: ''
+                  releaseBody: '溯源平台'
                   releaseDraft: false
                   prerelease: false
                   publish: true
