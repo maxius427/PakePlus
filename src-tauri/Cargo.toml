@@ -1,5 +1,5 @@
 [package]
-name = "quzheng"
+name = "cyber_seek"
 version = "1.0.1"
 description = "溯源取证客户端"
 authors = ["1024xiaoshen"]
