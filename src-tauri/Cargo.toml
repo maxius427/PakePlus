@@ -1,6 +1,6 @@
 [package]
 name = "cyber_seek"
-version = "1.0.1"
+version = "1.0.2"
 description = "溯源取证客户端"
 authors = ["1024xiaoshen"]
 edition = "2021"
